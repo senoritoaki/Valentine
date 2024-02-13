@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background-color: #fff0f6;
+  background-image: url("bg.jpg");
   font-family: "Protest Riot", sans-serif;
 }
 
@@ -29,9 +29,9 @@ body {
 }
 
 .cat-img {
-  width: 30rem;
-  height: 30rem;
-  margin-bottom: 2rem;
+  width: 40rem;
+  height: 40rem;
+  margin-bottom: 2.5rem;
 }
 
 .title {
@@ -39,6 +39,8 @@ body {
   color: #ff0000;
   text-align: center;
   margin-bottom: 2rem;
+  stroke: #000;
+  stroke-width: .5px;
 }
 
 .buttons {
